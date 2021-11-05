@@ -33,8 +33,6 @@ text-decoration: none;
 .logo{
 	width: 200px;
 }
-
-
 .zaglavlje{
 	color: white;
 	font-size: 4.2em;
@@ -43,7 +41,6 @@ text-decoration: none;
 	padding: 0;
 	animation:zaglavljeanim 1.5s;
 }
-
 .ponuda{
 	text-decoration: underline;
 	color:white;
@@ -120,7 +117,6 @@ p{
 	margin:auto;
 	padding-top: 20px;
 }
-
 input{
 	margin-bottom: 25px;
 	width: 20%;
