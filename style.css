@@ -33,7 +33,10 @@ text-decoration: none;
 .logo{
 	width: 200px;
 }
-
+.fb-share-button{
+	padding-top:860px;
+	padding-left:1350px;
+}
 .zaglavlje{
 	color: white;
 	font-size: 4.2em;
