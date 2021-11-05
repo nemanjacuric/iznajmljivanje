@@ -33,11 +33,7 @@ text-decoration: none;
 .logo{
 	width: 200px;
 }
-.fb-share-button{
-	position:fixed;
-	padding-top:1200px;
-	padding-left:1800px;
-}
+
 .zaglavlje{
 	color: white;
 	font-size: 4.2em;
@@ -46,6 +42,10 @@ text-decoration: none;
 	padding: 0;
 	animation:zaglavljeanim 1.5s;
 }
+.fb-share-button{
+	position:fixed;
+	padding-top:1200px;
+	padding-left:1800px;
 .ponuda{
 	text-decoration: underline;
 	color:white;
