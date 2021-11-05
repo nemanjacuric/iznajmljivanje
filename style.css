@@ -33,9 +33,9 @@ text-decoration: none;
 .logo{
 	width: 200px;
 }
-#fb-root{
-	padding-top:860px;
-	padding-left:1350px;
+.fb-share-button{
+	padding-top:350px;
+	padding-left:1000px;
 }
 .zaglavlje{
 	color: white;
