@@ -33,7 +33,7 @@ text-decoration: none;
 .logo{
 	width: 200px;
 }
-.fb-share-button{
+#fb-root{
 	padding-top:860px;
 	padding-left:1350px;
 }
